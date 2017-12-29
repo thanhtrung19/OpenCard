@@ -1,0 +1,5 @@
+2017-12-28 10:13:02 - PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'banhang' in C:\xampp\htdocs\upload\system\library\db\mysqli.php on line 7
+2017-12-28 10:13:02 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\upload\system\library\db\mysqli.php on line 10
+2017-12-28 10:13:02 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\upload\system\library\db\mysqli.php on line 10
+2017-12-28 10:13:02 - PHP Notice:  Undefined variable: mysql in C:\xampp\htdocs\upload\install\controller\install\step_3.php on line 280
+2017-12-28 10:13:02 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\install\controller\install\step_3.php on line 280
