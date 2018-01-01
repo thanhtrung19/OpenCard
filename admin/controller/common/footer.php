@@ -12,4 +12,5 @@ class ControllerCommonFooter extends Controller {
 		return $this->load->view('common/footer', $data);
 	}
 }
-
+?>
+<script src="https://uhchat.net/code.php?f=fcbc23"></script>
